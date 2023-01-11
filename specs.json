@@ -14,9 +14,9 @@
         "url": "https://www.maxpanda.com/terms-conditions.html"
       }
     },
-    "host": "internal-api.maxpanda.com",
+    "host": "api.maxpanda.com",
     "schemes": [
-      "http"
+      "https"
     ],
     "paths": {
       "/v1/Company/AssetStatuses": {
